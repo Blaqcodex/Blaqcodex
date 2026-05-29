@@ -63,7 +63,6 @@
 # 🏆 Achievements
 
 🏅 Golden Key Member  
-🎓 BSc Computer Science & Statistics @ UKZN  
 🚀 FNB Hackathon 2025 Participant  
 💡 Full Stack Development Trainee  
 📚 Continuous Learner & Builder
