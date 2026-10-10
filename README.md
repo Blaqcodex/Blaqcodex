@@ -2,7 +2,7 @@
 
 # Thabiso Nene
 
-### Full Stack Developer · Founder · Graphic Designer
+### Freelance Full Stack Developer · Founder · Graphic Designer
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=I+turn+ideas+into+interfaces+that+actually+work;Full+Stack+Developer+%40+Umuzi;React+%7C+Node.js+%7C+Express+%7C+SQL;Founder%2C+Nene+IT+%26+Consulting;Founder%2C+Blaqcodex;Designing+with+Figma+%2B+Adobe%2C+Building+with+Code" />
 
@@ -19,7 +19,7 @@
 
 I don't just write code - I design it to look right, and I build the businesses around it too.
 
-I'm a **Full Stack Developer currently working as an Independent Contractor with Umuzi** in web development, building responsive, production-grade applications from front end to database. My background in **graphic design** means I bring an actual eye for layout, spacing, and user experience into everything I build - the things I ship aren't just functional, they're intentional.
+I'm a **Freelance Full Stack Developer currently working as an Independent Contractor with Umuzi** in web development, building responsive, production-grade applications from front end to database. My background in **graphic design** means I bring an actual eye for layout, spacing, and user experience into everything I build - the things I ship aren't just functional, they're intentional.
 
 Beyond development, I'm the **Founder of Nene IT & Consulting**, an IT startup, and the **Founder of Blaqcodex**, a clothing brand - because building things I care about doesn't stop at code. My academic foundation in **Computer Science, Applied Mathematics, and Statistics (UKZN)** keeps my thinking structured, whether I'm debugging an API or making a business decision.
 
