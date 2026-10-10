@@ -144,10 +144,9 @@ A clothing brand built on the same design instincts I bring to interfaces.
 
 ## Achievements
 
-🏅 Golden Key International Honour Society Member — UKZN
+🏅 Golden Key International Honour Society Member
 🚀 FNB Hackathon 2025 Participant
 💼 Independent Contractor, Umuzi (Web Development)
-🎓 UKZN Undergraduate Scholarship recipient
 
 ---
 
