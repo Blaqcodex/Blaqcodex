@@ -35,7 +35,7 @@ Beyond development, I'm the **Founder of Nene IT & Consulting**, an IT startup, 
 | 💻 **Full Stack Development** | React, Node.js, Express, Django, REST APIs, MySQL, PostgreSQL |
 | 🎨 **Graphic & UI/UX Design** | Figma, Adobe Creative Suite, design systems, prototyping |
 | 📊 **Data & Statistics** | Python, SAS, Excel, statistical computing, data-driven decisions |
-| 🚀 **Entrepreneurship** | Founder, Nene IT & Consulting · Founder, Blaqcodex |
+| 🚀 **Entrepreneurship** | Founder, Nene IT & Consulting * Founder, Blaqcodex |
 
 ---
 
