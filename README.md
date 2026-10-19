@@ -27,7 +27,7 @@ I work across **web, desktop, and mobile development**, using technologies such 
 Beyond development, I'm the **Founder of Nene IT & Consulting**, an IT startup, and the **Founder of Blaqcodex**, a clothing brand - because building things I care about doesn't stop at code. My academic foundation in **Computer Science, Applied Mathematics, and Statistics** keeps my thinking structured, whether I'm debugging an API or making a business decision.
 
 🇿🇦 Based in Durban, South Africa  
-🎓 Studying ICT: Applications Development at Durban University of Technology  
+🎓 UKZN, DUT (Computer Science & Information Technology)  
 🎯 Currently building scalable applications, exploring cloud technologies, growing two ventures, and always shipping.
 
 ---
@@ -181,7 +181,7 @@ A clothing brand built on the same design instincts I bring to interfaces.
 
 ### 🎓 CampusPulse — Student & Campus Management Platform
 
-A multi-platform student and campus management system developed as part of a university software development team project.
+A multi-platform student and campus management system.
 
 CampusPulse combines a **.NET 10 ASP.NET Core REST API**, a **.NET MAUI Android student application**, and a **WPF Windows administration application** into one integrated platform.
 
@@ -226,7 +226,7 @@ Complete application with authentication, CRUD operations, REST APIs, and MySQL 
 
 **Tech Stack:** React · Node.js · Express · MySQL · Postman
 
-### 🌐 Responsive Portfolio & Landing Pages
+### 🌐 Responsive Portfolios & Landing Pages
 
 Built with HTML, CSS, Tailwind, and JavaScript, including form validation and dynamic UI.
 
