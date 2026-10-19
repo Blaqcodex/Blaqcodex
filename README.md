@@ -155,8 +155,6 @@ A clothing brand built on the same design instincts I bring to interfaces.
 
 ## Education & Certifications
 
-**ICT: Applications Development** — Durban University of Technology
-
 **Full-Stack Development** — IT Varsity, FNB App Academy
 
 - Cisco Cybersecurity Essentials
@@ -172,7 +170,7 @@ A clothing brand built on the same design instincts I bring to interfaces.
 🏅 Golden Key International Honour Society Member  
 🚀 FNB Hackathon 2025 Participant  
 💼 Independent Contractor, Umuzi (Web Development)  
-🎓 CampusPulse University Software Development Project  
+🎓 CampusPulse University Software  
 ☁️ Microsoft Azure App Service Deployment Experience  
 
 ---
